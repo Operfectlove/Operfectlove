@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://instagram.com/monochrome.work" target="_blank"><img src="https://img.shields.io/badge/monochrome.work-DD2A7B?style=flat&logo=Instagram&logoColor=FFFFF"/></a>
+<a href="https://instagram.com/monochrome.work" target="_blank"><img src="https://img.shields.io/badge/monochrome.work-DD2A7B?style=flat&logo=Instagram&logoColor="/></a>
