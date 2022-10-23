@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Algorithm-515BD4?style=flat&logo=The Algorithms&logoColor=FFFFFF"/></a>
-
-<a href="https://instagram.com/monochrome.work" target="_blank"><img src="https://img.shields.io/badge/monochrome.work-DD2A7B?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Algorithm-515BD4?style=flat&logo=The Algorithms&logoColor=FFFFFF"/></a> <a href="https://instagram.com/monochrome.work" target="_blank"><img src="https://img.shields.io/badge/monochrome.work-DD2A7B?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
